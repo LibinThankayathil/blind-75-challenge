@@ -1,9 +1,9 @@
-# Libin's Blind 75 Challenge
+# We Code Blind 75 Challenge
 
 ---
 
-Challenge #1 -
-
----
+## About
+# Name: Libin T
+# Email: libinthankayathil@gmail.com
 
 Happy coding! 🚀
